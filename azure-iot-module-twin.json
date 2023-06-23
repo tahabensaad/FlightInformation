@@ -1,5 +1,5 @@
-```json
-        {
+
+ {
             "name": "Flight",
             "type": "object",
             "properties": [
@@ -58,11 +58,8 @@
                 },
             ]
         }
-```
 
-#### Flight Update Notification
 
-```json
 {
             "name": "Flight_Update_Notification",
             "type": "object",
@@ -81,11 +78,8 @@
                 }
             ]
         }
-```
 
-#### Passenger
 
-```json
 {
             "name": "Passenger",
             "type": "object",

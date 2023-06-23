@@ -6,23 +6,23 @@
                 {
                     "name": "ID",
                     "type": "string",
-                },
+                }
                 {
                     "type": "string",
                     "name": "Destination"
-                },
+                }
                 {
                     "name": "Scheduled_Departure_Time",
                     "type": "numeric",
-                },
+                }
                 {
                     "name": "Estimated_Departure_Time",
                     "type": "numeric"
-                },
+                }
                 {
                     "name": "Actual_Departure_Time",
                     "type": "numeric",
-                },
+                }
                 {
                     "name": "Airline",
                     "type": "object",
@@ -30,13 +30,13 @@
                       {
                         "name": "ID",
                         "type": "string",
-                      },
+                      }
                       {
                         "name": "Name",
                         "type": "string"
-                      },
+                      }
                     ]
-                },
+                }
                 {
                     "name": "Flight_Status",
                      "type": "array",
@@ -51,11 +51,11 @@
                               "Delayed"
                             ]
                         }            
-                },
+                }
                 {
                     "name": "Departure_Gate",
                     "type": "string",
-                },
+                }
             ]
         }
 
@@ -67,11 +67,11 @@
                 {
                     "name": "Id",
                     "type": "string",
-                },
+                }
                 {
                     "name": "Flight_ID",
                     "type": "string"
-                },
+                }
                 {
                     "name": "Passenger_ID",
                     "type": "string"
@@ -87,7 +87,7 @@
                 {
                     "name": "Id",
                     "type": "string",
-                },
+                }
                 {
                     "name": "Full_Name",
                     "type": "string"
